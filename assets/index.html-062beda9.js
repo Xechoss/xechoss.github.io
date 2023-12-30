@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-699c5537","path":"/tags/Vuepress-theme-reco/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};
