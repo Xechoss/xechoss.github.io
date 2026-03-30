@@ -1,0 +1,1 @@
+import{_ as t,r as a,o as n,c,e as r,a as e,b as s}from"./app-4d773e5f.js";const _={},d=e("h1",{id:"工具百宝箱",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#工具百宝箱","aria-hidden":"true"},"#"),s(" 工具百宝箱")],-1);function l(i,h){const o=a("tool");return n(),c("div",null,[d,r(o)])}const m=t(_,[["render",l],["__file","index.html.vue"]]);export{m as default};
